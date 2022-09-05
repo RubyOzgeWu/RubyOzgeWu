@@ -1,1 +1,2 @@
 # RubyOzgeWu
+![](./intro.gif)
