@@ -15,4 +15,4 @@ Once wanna be a diplomat, but after learning front-end skills and the passion fo
 />&emsp;<img align="center" src="assets/mongodb.png" width="5%"
 />&emsp;<img align="center" src="assets/ai.png" width="5%"
 />&emsp;<img align="center" src="assets/ps.png" width="5%"
-/>&emsp;<img align="center" src="assets/Figma-logo.svg" width="5%"/>
+/>&emsp;<img align="center" src="assets/Figma-logo.svg" width="3%"/>
