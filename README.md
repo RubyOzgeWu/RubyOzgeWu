@@ -1,7 +1,7 @@
 ![](./intro.gif)
 # RubyOzgeWu
 Hi, I'm Ruby, a rookie front-end developer from Taiwan.
-Once wanna be a diplomat, but after learning front-end skills and the passion for web design, UI/UX, I decided to say "Hello, world." to the front-end development and website world.
+Once wanna be a diplomat, but after learning front-end skills and due to the passion for web design, UI/UX, I decided to say "Hello, world." to the front-end development and website world.
 ## Languages and Frameworks
 <img align="center" src="assets/html.png" width="5%"
 />&emsp;<img align="center" src="assets/css.png" width="5%"
