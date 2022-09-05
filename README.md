@@ -16,3 +16,7 @@ Once wanna be a diplomat, but after learning front-end skills and due to the pas
 />&emsp;<img align="center" src="assets/ai.png" width="5%"
 />&emsp;<img align="center" src="assets/ps.png" width="5%"
 />&emsp;<img align="center" src="assets/Figma-logo.svg" width="3%"/>
+
+## Contact me
+<a href="https://www.linkedin.com/in/%E7%8F%AE%E5%A6%82-%E5%90%B3-124363233/"><img src="./assets/linkedin.png" width="5%"/></a>
+<a href="https://www.linkedin.com/in/%E7%8F%AE%E5%A6%82-%E5%90%B3-124363233/"><img src="./assets/ig.png" width="5%"/></a>
